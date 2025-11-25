@@ -1,0 +1,5 @@
+{
+  "name": "SchemaViz - SQL to ER Diagram",
+  "description": "A visual Entity-Relationship diagram tool that parses MySQL DDL statements and renders an interactive schema editor.",
+  "requestFramePermissions": []
+}
